@@ -26,3 +26,8 @@
 * [Software Devleopment Skills for Data Scientists](http://treycausey.com/software_dev_skills.html)
 * [Logging Howto](https://docs.python.org/2/howto/logging.html)
 * [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+
+
+
+https://bit.ly/2XVgHQ6
+https://github.com/Amirosimani/datascience_reading
