@@ -9,7 +9,7 @@
 - Collaboration: Create an overview of your project (readme.md); Create a shared public “to-do” list; embrace code review
 - Project: Put each project in its own directory, which is named after the project; Follow a logical folder structure - codes in src/ and data in data/; Name all files to reflect their content or function; 
 - Version Control: Keep changes small; Share changes frequently;
->**Learn (Git)[https://www.datacamp.com/courses/introduction-to-git-for-data-science]!**
+>**Learn [Git](https://www.datacamp.com/courses/introduction-to-git-for-data-science)!**
 
 ## [Technical Debt for Data Scientists](https://blog.shotwell.ca/posts/2019-04-19-technical-debt-in-data-science/)
 
